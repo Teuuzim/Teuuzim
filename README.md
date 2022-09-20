@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teuuzim&label=Clicks%20no%20perfil&color=b40e0e&style=flat-square" alt="teuuzim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teuuzim" alt="teuuzim" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=teuuzim&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=teuuzim&theme=darkhub" alt="teuuzim"  /></a> </p>
 
 - 📫 How to reach me **matheusvaz01@yahoo.com.br**
 
