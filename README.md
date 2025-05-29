@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" background-color ="black"/>
 </div> 
-<h3 align="center">A computer science student at FUMEC-MG</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teuuzim&label=Clicks%20no%20perfil&color=b40e0e&style=flat-square" alt="teuuzim" /> </p>
 
